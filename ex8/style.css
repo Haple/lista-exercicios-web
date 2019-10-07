@@ -1,0 +1,15 @@
+nav.menu{
+	display: flex;
+	flex-direction: column;
+	background-color: lightblue;
+}
+nav.menu a{
+	width: max-content;
+	background-color: darkblue;
+}
+nav.menu a:visited{
+	color: red;
+}
+nav.menu a:link{
+	color: yellow;
+}

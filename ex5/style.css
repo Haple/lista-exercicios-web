@@ -1,0 +1,8 @@
+table.azul{
+	background-color: lightblue;
+	margin: auto;
+}
+
+table.azul, table.azul th, table.azul td{
+	border: 1px solid darkblue;
+}
